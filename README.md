@@ -2263,5 +2263,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </a>
         </td>
         </tr>
+        <td>
+        <td align="center">
+            <a href="https://github.com/NAkul456">
+                <img src="https://avatars.githubusercontent.com/u/186897699?v=4" width="100px;" alt="Nakul Siricilla"/>
+                <br />
+                <sub><b>Nakul Siricilla</b></sub>
+            </a>
+        </td>
     </tbody>
 </table>
